@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinSamples</string>
+    <string name="list_age">Возраст:</string>
+    <string name="list_name">Имя:</string>
+</resources>
